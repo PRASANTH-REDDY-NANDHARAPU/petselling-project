@@ -127,7 +127,7 @@ body {
 }
 .adapt-btn {
   padding: 10px 30px;
-  background-color: tomato;
+  background-color: rgb(233, 43, 10);
   color: white;
   font-weight: bolder;
   border-radius: 10px;
@@ -138,7 +138,7 @@ body {
   color: white;
 }
 .dog-card-bg {
-  background-color: purple;
+  background-color: rgb(47, 18, 47);
   color: white;
 }
 .dog-roller {
