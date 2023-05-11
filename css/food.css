@@ -1,0 +1,5 @@
+.static-food{
+    color: rgb(7, 241, 7);
+    text-decoration: underline overline rgb(7, 241, 7);
+    text-underline-offset: 5px;
+  }
